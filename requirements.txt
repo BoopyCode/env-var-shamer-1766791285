@@ -1,0 +1,2 @@
+# No dependencies needed - uses Python standard library only
+# Unless you consider shame a dependency
